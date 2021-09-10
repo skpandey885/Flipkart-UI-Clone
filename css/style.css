@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+.navbar{
+    background-color: #2874f0;
+}
+.navbar-brand{
+    margin-left:80px ;
+}
+
+.form-control{
+border-radius: 2px;
+height: 35px;
+width: 550px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+padding-left: 15px;
+}
