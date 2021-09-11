@@ -18,3 +18,47 @@ font-family: Arial, Helvetica, sans-serif;
 font-size: 14px;
 padding-left: 15px;
 }
+
+.L0Z3Pu {
+   border: 1px solid #fff;
+   height: 30px;
+   background-color: #fff;
+   margin-left: -35px;
+   margin-top: 2.4px;
+}
+.login{
+    height: 30px;
+    border: 1px solid #ffff;
+    background-color: #ffff;
+    color: #2874f0;
+    width: 90px;
+    margin-left: 250%;
+    text-align: center;
+    margin-top: 10px;
+}
+#more{
+    position: relative;
+    color: #ffff;
+   left: 607%;
+   top: 30%;
+   cursor: pointer;
+}
+
+.zZ3yfL{
+    transform: rotate(-90deg);
+    margin-top: -19px;
+    margin-left: 700%;
+    cursor: pointer;
+    transition: 0.1s all ease-in-out;
+}
+ .V3C5bO{
+    position: relative;
+   left: 638%;
+   top: 28%
+}
+#cart{
+    color: #ffff;
+    position: relative;
+   left: 640%;
+   top: 30%
+}
