@@ -102,4 +102,15 @@ cursor: pointer;
 ._2sVfI7{
     transform: rotate(-90deg);
     margin-left: 3px;
+    transition: .1s all ease-in-out;
+}
+.category ul li:hover{
+    color: #1460db;
+}
+.carousel-item img{
+    width: 100%;
+}
+#carouselExampleControls{
+    margin: 0 10px;
+    margin-top: -5px;
 }
