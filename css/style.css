@@ -85,7 +85,7 @@ padding-left: 15px;
     margin-left: 70px;
 margin-top: 10px;
 margin-bottom: -10px;
-
+cursor: pointer;
 }
 
 .category ul li img{
@@ -98,4 +98,8 @@ margin-bottom: -10px;
 }
 .category ul a:hover{
     color: #1460db;
+}
+._2sVfI7{
+    transform: rotate(-90deg);
+    margin-left: 3px;
 }
