@@ -72,3 +72,30 @@ padding-left: 15px;
     position: relative;
     top: -2px;
 }
+.category ul {
+    display: flex;
+   
+    list-style: none;
+    text-align: center;
+    font-weight:500;
+    font-size: smaller;
+  
+}
+.category ul li{
+    margin-left: 70px;
+margin-top: 10px;
+margin-bottom: -10px;
+
+}
+
+.category ul li img{
+    height: 70px;
+    width: 70px;
+}
+.category ul a{
+    text-decoration: none;
+    color: #000;
+}
+.category ul a:hover{
+    color: #1460db;
+}
