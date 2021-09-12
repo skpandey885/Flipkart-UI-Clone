@@ -40,7 +40,7 @@ padding-left: 15px;
     position: relative;
     color: #ffff;
    left: 607%;
-   top: 30%;
+   top: 28%;
    cursor: pointer;
 }
 
@@ -54,11 +54,21 @@ padding-left: 15px;
  .V3C5bO{
     position: relative;
    left: 638%;
-   top: 28%
+   top: 12px;
+   text-decoration: none;
 }
 #cart{
     color: #ffff;
     position: relative;
    left: 640%;
-   top: 30%
+   top: 13px;
+   text-decoration: none;
+}
+#cartBox{
+    margin-top: 13px;
+    text-decoration: none;
+}
+#arrow{
+    position: relative;
+    top: -2px;
 }
