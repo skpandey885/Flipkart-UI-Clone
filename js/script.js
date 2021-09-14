@@ -3,7 +3,6 @@ function func1() {
 
   let x = document.getElementById('arrow');
   x.style.transform = "rotate(450deg)";
-
 }
 function func2() {
   let x = document.getElementById('arrow');
