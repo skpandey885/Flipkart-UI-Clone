@@ -118,12 +118,29 @@ cursor: pointer;
 .slidepic{
     cursor: pointer;
 }
-
-.dotd{
-    height: 340px;
-border: 2px solid black;
-width: 80%;
-}
 .grey{
-  
+  background-color: #f1f3f6;
+}
+.dotd{
+height: 340px;
+width: 80%;
+margin: 7px;
+margin-left:10.8px;
+margin-top: 8px;
+background-color: #ffff;
+}
+.navigation h4{
+    display: inline-block;
+margin-top: 15px;
+margin-left: 15px;
+margin-bottom: 0;
+}
+._1WXTS9{
+    margin-bottom: 2px;
+    margin-left: 15px;
+}
+
+#viewall{
+margin-left: 50%;
+
 }

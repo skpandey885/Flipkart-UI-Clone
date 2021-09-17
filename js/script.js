@@ -66,4 +66,20 @@ x.style.transform = "rotate(270deg)";
 }
 
 
+ setInterval(() => {
+  let x=new Date();
+  let seconds=60-x.getSeconds();
+  if(seconds==60)
+    seconds=" ";
+  let minutes=60-x.getMinutes();
+  if(minutes==60)
+    minutes=" ";
+  let hour=24-x.getHours();
+
+
+  document.getElementById("timeDisplay").innerHTML=`${hour} : ${minutes} : ${seconds}`;
+  document.getElementById("timeDisplay").style.padding="1px";
+  document.getElementById("timeDisplay").style.color="#7f7f7f";
+ }, 1000);
+
 
