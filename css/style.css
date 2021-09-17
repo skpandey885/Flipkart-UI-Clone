@@ -113,7 +113,17 @@ cursor: pointer;
 #carouselExampleControls{
     margin: 0 10px;
     margin-top: -5px;
+
 }
 .slidepic{
     cursor: pointer;
+}
+
+.dotd{
+    height: 340px;
+border: 2px solid black;
+width: 80%;
+}
+.grey{
+  
 }
