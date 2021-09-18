@@ -129,18 +129,70 @@ margin-left:10.8px;
 margin-top: 8px;
 background-color: #ffff;
 }
-.navigation h4{
-    display: inline-block;
-margin-top: 15px;
-margin-left: 15px;
-margin-bottom: 0;
+
+.navigation{
+    display: flex;
+  justify-content: space-between;
 }
-._1WXTS9{
-    margin-bottom: 2px;
+
+#dotdtext{
+    margin-top: 17px;
+    margin-left: 17px;
+}
+.timebox{
+      width:150px;
+      margin-top:20px;
+      margin-right: 690px;
+  }
+
+  #viewall{
+      margin-right: 20px;
+      margin-top: 15px;
+  }
+
+  .picBox,  .descriptionBox, .discountBox, .brandBox{
+      display: flex;
+      justify-content: space-evenly;
+  }
+
+  ._10pg75{
+      margin-top: 40px;
+  }
+  li{
+      list-style: none;
+  }
+  .descriptionBox li{
+      font-size: 13px;
+      font-weight: 550;
+      margin-top: -20px;
+  }
+#firstCh{
+    margin-left: -20px;
+}
+
+.discountBox li{
+font-size: 13px;
+color:#388e3c;
+}
+#_fc{
+    margin-left: -30px;
+    margin-right: 40px;
+}
+.brandBox li{
+    font-size: 13px;
+}
+._1bb, ._5bb{
+    margin-left: -40px;
+}
+._3bb{
+    margin-left: 20px;
+}
+._2bb{
     margin-left: 15px;
 }
-
-#viewall{
-margin-left: 50%;
-
+._396cs4{
+    cursor: pointer;
+}
+._396cs4:hover{
+    transform: scale(1.05);
 }
