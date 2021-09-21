@@ -123,7 +123,7 @@ cursor: pointer;
 }
 .dotd{
 height: 340px;
-width: 80%;
+width: 90%;
 margin: 7px;
 margin-left:10.8px;
 margin-top: 8px;
@@ -135,20 +135,24 @@ background-color: #ffff;
   justify-content: space-between;
 }
 
-#dotdtext{
+.dotdtext{
     margin-top: 17px;
     margin-left: 17px;
+ 
 }
 .timebox{
       width:150px;
       margin-top:20px;
-      margin-right: 690px;
+      margin-right: 650px;
+      
   }
 
-  #viewall{
-      margin-right: 20px;
-      margin-top: 15px;
-  }
+.viewall{
+     width: 100px;
+     position: relative;
+     top: 15px;
+     right: 15px;
+    }
 
   .picBox,  .descriptionBox, .discountBox, .brandBox{
       display: flex;
@@ -166,7 +170,7 @@ background-color: #ffff;
       font-weight: 550;
       margin-top: -20px;
   }
-#firstCh{
+.firstCh{
     margin-left: -20px;
 }
 
@@ -174,7 +178,8 @@ background-color: #ffff;
 font-size: 13px;
 color:#388e3c;
 }
-#_fc{
+
+._fc{
     margin-left: -30px;
     margin-right: 40px;
 }
@@ -195,4 +200,28 @@ color:#388e3c;
 }
 ._396cs4:hover{
     transform: scale(1.05);
+}
+.dvoOzE img{
+    margin-top: 8px;
+    height: 342px;
+    margin-right: 8px;
+}
+.firstBox{
+    display: flex;
+}
+.slider{
+    height: 100px;
+    width: 50px;
+    margin-left: 95.5%;
+    margin-top: -13%;
+position: relative;
+background-color: rgb(255, 255, 255);
+cursor: pointer;
+box-shadow: 0 -5px 10px -5px rgba(115,115,115,0.75),
+0 10px 10px -5px rgba(115,115,115,0.75);
+}
+._1xtBwk{
+    transform: rotate(180deg);
+    margin-top:35px;
+    margin-left: 18px;
 }

@@ -77,9 +77,10 @@ x.style.transform = "rotate(270deg)";
   let hour=24-x.getHours();
 
 
-  document.getElementById("timeDisplay").innerHTML=`${hour} : ${minutes} : ${seconds}`;
-  document.getElementById("timeDisplay").style.padding="1px";
-  document.getElementById("timeDisplay").style.color="#7f7f7f";
+  document.getElementsByClassName("timeDisplay")[0].innerHTML=`${hour} : ${minutes} : ${seconds}`;
+  document.getElementsByClassName("timeDisplay")[0].style.padding="1px";
+  document.getElementsByClassName("timeDisplay")[0].style.color="#7f7f7f";
  }, 1000);
+
 
 
