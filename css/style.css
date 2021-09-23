@@ -227,18 +227,50 @@ box-shadow: 0 -5px 10px -5px rgba(115,115,115,0.75),
     margin-left: 18px;
 }
 
-.fftc{
-    margin-top: -40px;
-}
-._ggf{
-    margin-left: -50px;
+/* Laptop Icon css */
+.imglap{
+    margin-bottom: -150px;
 }
 .osd{
     margin-left: 40px;
 }
-.jjht{
- margin-left:-10px;
+
+._ggf{
+    margin-left: -30px;
 }
+._2bb{
+    margin-left: -10px;
+}
+
+/* Women Saree CSS */
+.wmnsar{
+    margin-left: 40px;
+}
+.wmntext{
+   margin-left: 30px;
+}
+/* Mobile css */
+._3exPp9{
+    margin-left: 10px;
+}
+.jjht{
+    margin-left: 20px;
+}
+._4bb{
+  margin-right: 40px;
+  margin-left: -50px;
+}
+
+/* Audio and Video */
 .etcd{
-    margin-right: -50px;
+    margin-right: -40px;
+    margin-left: 30px;
+}
+._5bb{
+    margin-left: -100px;
+}
+
+/* Spike Css */
+.spkimg{
+margin-top: -40px;
 }
